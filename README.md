@@ -40,9 +40,19 @@ The analysis aims to extract useful business insights that can help hotels impro
 - Market segment analysis.
 - Monthly booking trend analysis.
 - Dashboard creation.
-    <img width="1018" height="496" alt="hotel type vs cancellation" src="https://github.com/user-attachments/assets/f168c1d0-c69f-4bba-a171-3bd0a92886d3" />
+ <img width="479" height="381" alt="image" src="https://github.com/user-attachments/assets/b7886f9f-1b97-444b-9f06-9ca049d280ff" />
 
-<img width="1031" height="585" alt="month-wise bookings" src="https://github.com/user-attachments/assets/a84bbb88-c0f6-4d3e-afaf-29023f5e2275" />
+<img width="482" height="288" alt="image" src="https://github.com/user-attachments/assets/4553c303-0869-457f-b750-de8021d6b950" />
+
+<img width="481" height="286" alt="image" src="https://github.com/user-attachments/assets/4e35af7f-0a00-48dc-a080-e04e9db103d5" />
+
+<img width="543" height="323" alt="image" src="https://github.com/user-attachments/assets/b384c938-0306-4962-9662-49ce21bd9462" />
+
+<img width="490" height="318" alt="image" src="https://github.com/user-attachments/assets/09f8ea8d-b341-4c4b-a4de-9cb187abef95" />
+
+<img width="520" height="282" alt="image" src="https://github.com/user-attachments/assets/50e25556-760a-4aef-bf6b-9e01a292fe96" />
+
+<img width="482" height="289" alt="image" src="https://github.com/user-attachments/assets/68e4ccf1-8c62-477d-8f28-c3d1ef82e76b" />
 
 ## Key Learning Outcomes
 - Practical experience with Excel data analysis.
