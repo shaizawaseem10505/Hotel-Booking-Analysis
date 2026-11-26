@@ -6,7 +6,8 @@ This project focuses on analyzing hotel booking data to understand booking patte
 
 The analysis aims to extract useful business insights that can help hotels improve booking management and make better decisions.
 
-<img width="997" height="563" alt="dashboard" src="https://github.com/user-attachments/assets/6090cad0-fe28-468b-ac40-c09736546aba" />
+<img width="979" height="559" alt="image" src="https://github.com/user-attachments/assets/118b4a6c-754e-450f-b550-e99069204633" />
+
 
 ## Project Objectives
 - Analyze hotel booking trends.
