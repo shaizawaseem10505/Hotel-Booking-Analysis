@@ -83,7 +83,7 @@ This project finds when and why cancellations happen, using 87,228 cleaned booki
 - Raise rates in peak months and offer discounts in slow months
 
 ## Full Report
-[Read the full project report (PDF)](Hotel_Booking_Analysis_Report.pdf)
+[Read the full project report (PDF)](hotel_Booking_Analysis_Report.pdf)
 
 BS Computer Science Student  
 Interested in Data Analytics and Data Science.
