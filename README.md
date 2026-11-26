@@ -1,6 +1,5 @@
 # Hotel-Booking-Analysis
 Hotel Booking Demand Analysis using Excel and SQL
-# Hotel Booking Analysis
 
 ## Project Overview
 This project focuses on analyzing hotel booking data to understand booking patterns, cancellation trends, customer behavior, and differences between City Hotels and Resort Hotels.
@@ -29,7 +28,7 @@ The analysis aims to extract useful business insights that can help hotels impro
 
 ## Project Files
 - `Hotel_Booking_Analysis_Report.pdf` – Complete project report.
-- `hotel_bookings.xlsx` – Excel analysis and dashboard.
+- `hotel_bookings.csv` – (Original Kaggle Dataset)Excel analysis and dashboard.
 - `hotel_analysis.sql` – SQL queries.
 - `ScreenShots/` – Project screenshots and visualizations.
 
@@ -62,7 +61,27 @@ The analysis aims to extract useful business insights that can help hotels impro
 - Presenting analytical findings.
 
 ## Author
-**Shaiza Waseem**
+**Shaiza Waseem**## Business Problem
+About 1 in 4 hotel bookings is cancelled, which leaves rooms empty and costs revenue.
+This project finds when and why cancellations happen, using 87,228 cleaned bookings.
+
+## Key Findings
+- Overall cancellation rate: **27.52%** (City Hotel 30.10% vs Resort Hotel 23.48%)
+- Lead time matters: **16.44%** cancellation at 0-30 days vs **36.86%** at 90+ days
+- **Online TA** brings 59% of bookings and cancels at **35.38%**; Direct (14.75%) and Corporate (12.12%) are far more reliable
+- Repeated guests cancel at **7.73%** vs 28.32% for new guests
+- More special requests means fewer cancellations (33.25% with none, 10.62% with four)
+- August is the peak month; Resort ADR rises from about $49 (January) to about $188 (August)
+- Results were cross-checked between Excel and SQL
+
+## Recommendations
+- Require a deposit or partially non-refundable rate for bookings made well in advance
+- Agree stricter cancellation terms with online travel agents; promote direct booking
+- Build a loyalty program for repeated guests
+- Raise rates in peak months and offer discounts in slow months
+
+## Full Report
+[Read the full project report (PDF)](Hotel_Booking_Analysis_Report.pdf)
 
 BS Computer Science Student  
 Interested in Data Analytics and Data Science.
