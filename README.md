@@ -45,7 +45,8 @@ The analysis aims to extract useful business insights that can help hotels impro
 
 <img width="481" height="286" alt="image" src="https://github.com/user-attachments/assets/4e35af7f-0a00-48dc-a080-e04e9db103d5" />
 
-<img width="543" height="323" alt="image" src="https://github.com/user-attachments/assets/b384c938-0306-4962-9662-49ce21bd9462" />
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/62338b4c-d12f-46ff-9a3a-a89037c8490b" />
+
 
 <img width="490" height="318" alt="image" src="https://github.com/user-attachments/assets/09f8ea8d-b341-4c4b-a4de-9cb187abef95" />
 
